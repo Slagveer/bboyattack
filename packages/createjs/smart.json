@@ -1,0 +1,9 @@
+{
+    "name": "createjs",
+    "description": "CreateJS - CreateJS is a suite of modular libraries and tools which work together to enable rich interactive content on open web technologies via HTML5.",
+    "homepage": "http://www.createjs.com",
+    "author": "Patric Slagveer <patric.slagveer@gmail.com> (http://slagveer.com)",
+    "version": "1.0.0",
+    "git": "https://github.com/CreateJS/",
+    "packages": {}
+}
